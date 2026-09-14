@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tanu%20Shree&fontSize=42&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20BCA%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:000000&height=220&section=header&text=Tanu%20Shree&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20BCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=BCA+(AI+%26+ML)+Student+%40+Galgotias+University;Aspiring+Python+Developer+%7C+SDE;Turning+Data+into+Predictive+Intelligence" alt="Typing SVG" />
-
-<br/>
-
-[![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&width=800&height=80&lines=BCA+(AI+%26+ML)+Student+%40+Galgotias+University;Aspiring+Python+Developer+%7C+SDE;Turning+Data+into+Predictive+Intelligence" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-shree-2a2790284/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharytanni9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanushree860)
+[![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=FFD700&labelColor=000000)](#)
+[![Location](https://img.shields.io/badge/Based%20in-India-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=FFD700&labelColor=000000)](#)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanushree860&label=Profile%20Views&color=6D28D9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Tanushree860?label=Followers&style=for-the-badge&color=7C3AED&logo=github)
-![Stars](https://img.shields.io/github/stars/Tanushree860?label=Stars&style=for-the-badge&color=8B5CF6&logo=github)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/tanu-shree-2a2790284/)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000)](mailto:chaudharytanni9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000)](https://github.com/Tanushree860)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tanushree860&label=Profile%20Views&color=D4AF37&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Tanushree860?label=Followers&style=for-the-badge&color=D4AF37&logo=github&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/Tanushree860?label=Stars&style=for-the-badge&color=D4AF37&logo=github&labelColor=000000)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🟣 About Me
+## 🏆 About Me
 
 <img align="right" width="290" src="https://raw.githubusercontent.com/OhSoya/OhSoya/output/snake.svg" alt="snake-preview" />
 
@@ -55,7 +55,7 @@ Focus Areas:
 
 ---
 
-## 🟣 Tech Stack
+## 🏆 Tech Stack
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Focus Areas:
 
 ---
 
-## 🟣 AI / ML Expertise
+## 🏆 AI / ML Expertise
 
 <div align="center">
 
@@ -110,10 +110,10 @@ Focus Areas:
 
 ---
 
-## 🟣 Featured Projects
+## 🏆 Featured Projects
 
 <details>
-<summary><b>🔹 Crop Yield Prediction Using Machine Learning</b></summary>
+<summary><b>🔸 Crop Yield Prediction Using Machine Learning</b></summary>
 <br/>
 
 An ML-based crop yield prediction system built on agricultural data, covering the full pipeline from raw data to actionable prediction — preprocessing, feature engineering, model evaluation, and visualization.
@@ -132,7 +132,7 @@ Focused on turning noisy agricultural data into a reliable predictive signal —
 </details>
 
 <details>
-<summary><b>🔹 Student Management System</b></summary>
+<summary><b>🔸 Student Management System</b></summary>
 <br/>
 
 A database-driven student management system supporting full CRUD operations, SQL-based querying, attendance tracking, and academic record management.
@@ -151,7 +151,7 @@ Designed around clean relational database structure, with SQL queries handling c
 </details>
 
 <details>
-<summary><b>🔹 Bank Management System</b></summary>
+<summary><b>🔸 Bank Management System</b></summary>
 <br/>
 
 A Python-based banking application handling account management, transaction processing, input validation, and persistent storage via SQLite.
@@ -170,7 +170,7 @@ Built using Object-Oriented Programming principles to model accounts and transac
 </details>
 
 <details>
-<summary><b>🔹 ChatBuddyTanu — NLP Chatbot</b></summary>
+<summary><b>🔸 ChatBuddyTanu — NLP Chatbot</b></summary>
 <br/>
 
 An interactive NLP chatbot that uses intent classification and machine learning to understand user queries and respond through a Streamlit interface.
@@ -190,7 +190,7 @@ Combines NLTK-based text processing with a TensorFlow/Keras intent classificatio
 
 ---
 
-## 🟣 Education
+## 🏆 Education
 
 ### **Bachelor of Computer Applications (BCA)** — Artificial Intelligence & Machine Learning
 📅 *Galgotias University, Greater Noida, India — Expected Graduation: 2027*
@@ -212,16 +212,16 @@ Building a strong academic foundation in AI/ML, database systems, and software d
 
 ---
 
-## 🟣 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏆 Academic Performance | Maintaining a CGPA of 7.90/10 in BCA (Artificial Intelligence & Machine Learning) |
-| 🏆 Applied ML Projects | Developed machine learning and database-driven projects using Python and MySQL |
-| 🏆 Generative AI Exploration | Actively exploring Generative AI, Large Language Models (LLMs), and Data Science applications |
-| 🏆 Continuous Practice | Regularly practicing programming and problem-solving using Python and SQL |
+| 🥇 Academic Performance | Maintaining a CGPA of 7.90/10 in BCA (Artificial Intelligence & Machine Learning) |
+| 🥇 Applied ML Projects | Developed machine learning and database-driven projects using Python and MySQL |
+| 🥇 Generative AI Exploration | Actively exploring Generative AI, Large Language Models (LLMs), and Data Science applications |
+| 🥇 Continuous Practice | Regularly practicing programming and problem-solving using Python and SQL |
 
 </div>
 
@@ -235,70 +235,70 @@ Building a strong academic foundation in AI/ML, database systems, and software d
 
 ---
 
-## 🟣 Certifications
+## 🏆 Certifications
 
 **HackerRank**
 
-[![SQL](https://img.shields.io/badge/SQL%20(Advanced)-HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python%20(Basic)-HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java%20(Basic)-HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL%20(Advanced)-HackerRank-D4AF37?style=for-the-badge&logo=hackerrank&logoColor=FFD700&labelColor=000000)](#)
+[![Python](https://img.shields.io/badge/Python%20(Basic)-HackerRank-D4AF37?style=for-the-badge&logo=hackerrank&logoColor=FFD700&labelColor=000000)](#)
+[![Java](https://img.shields.io/badge/Java%20(Basic)-HackerRank-D4AF37?style=for-the-badge&logo=hackerrank&logoColor=FFD700&labelColor=000000)](#)
 
 **Microsoft**
 
-[![Excel AI](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Microsoft%20Excel-312E81?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![Excel AI](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Tools-Microsoft%20Excel-D4AF37?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700&labelColor=000000)](#)
 
 **Udemy**
 
-[![Python Bootcamp](https://img.shields.io/badge/Complete%20Python%20Bootcamp-Udemy-8B5CF6?style=for-the-badge&logo=udemy&logoColor=white)](#)
+[![Python Bootcamp](https://img.shields.io/badge/Complete%20Python%20Bootcamp-Udemy-D4AF37?style=for-the-badge&logo=udemy&logoColor=FFD700&labelColor=000000)](#)
 
 ---
 
-## 🟣 Coding Profiles
+## 🏆 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Tanushree__89-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tanushree_89/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-chaudharytanni9-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chaudharytanni9)
-[![CodeChef](https://img.shields.io/badge/CodeChef-tanushree2801-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanushree2801)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Tanushree__89-D4AF37?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000)](https://leetcode.com/u/Tanushree_89/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-chaudharytanni9-D4AF37?style=for-the-badge&logo=hackerrank&logoColor=FFD700&labelColor=000000)](https://www.hackerrank.com/profile/chaudharytanni9)
+[![CodeChef](https://img.shields.io/badge/CodeChef-tanushree2801-D4AF37?style=for-the-badge&logo=codechef&logoColor=FFD700&labelColor=000000)](https://www.codechef.com/users/tanushree2801)
 
 </div>
 
 ---
 
-## 🟣 GitHub Analytics
+## 🏆 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanushree860&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushree860&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tanushree860&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=D4AF37&text_color=E8C766" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushree860&theme=dark&hide_border=true&background=000000&ring=D4AF37&fire=FFD700&currStreakLabel=E8C766" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree860&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree860&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&text_color=E8C766" width="48%"/>
 
 </div>
 
 ---
 
-## 🟣 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tanushree860&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tanushree860&theme=gitdimmed&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
 ---
 
-## 🟣 Contribution Activity
+## 🏆 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanushree860&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanushree860&theme=dracula&hide_border=true&bg_color=000000&color=FFD700&line=D4AF37&point=E8C766" width="90%"/>
 
 </div>
 
 ---
 
-## 🟣 Contribution Snake
+## 🏆 Contribution Snake
 
 <div align="center">
 
@@ -308,7 +308,7 @@ Building a strong academic foundation in AI/ML, database systems, and software d
 
 ---
 
-## 🟣 Current Focus
+## 🏆 Current Focus
 
 ```yaml
 Learning:
@@ -331,14 +331,14 @@ Open To:
 
 ---
 
-## 🟣 Connect With Me
+## 🏆 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharytanni9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-shree-2a2790284/)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanushree860)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D4AF37?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000)](mailto:chaudharytanni9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://www.linkedin.com/in/tanu-shree-2a2790284/)
+[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000)](https://github.com/Tanushree860)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=000000)](#)
 
 </div>
 
@@ -348,6 +348,6 @@ Open To:
 
 *"Every line of code I write today is a step closer to the engineer I'm becoming."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1200,100:000000&height=150&section=footer" width="100%"/>
 
 </div>
