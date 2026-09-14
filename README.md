@@ -6,7 +6,7 @@
 
 <br/>
 
-[![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=FFD700&labelColor=000000)](#)
+[![B.C.A](https://img.shields.io/badge/B.Tech-Computer%20Science-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=FFD700&labelColor=000000)](#)
 [![Location](https://img.shields.io/badge/Based%20in-India-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=FFD700&labelColor=000000)](#)
 
 <br/>
