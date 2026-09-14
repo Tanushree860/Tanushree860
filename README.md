@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tanushree%20Chaudhary&fontSize=42&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tanu%20Shree&fontSize=42&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20BCA%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+Scalable+Software+Systems;Engineering+Intelligent+AI+Products;Full+Stack+%2B+ML+%2B+Cloud+Native" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=BCA+(AI+%26+ML)+Student+%40+Galgotias+University;Aspiring+Python+Developer+%7C+SDE;Turning+Data+into+Predictive+Intelligence" alt="Typing SVG" />
 
 <br/>
 
@@ -74,6 +74,20 @@ Focus Areas:
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,jupyter&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**💬 Soft Skills**
+
+`Analytical Thinking` `Problem Solving` `Communication` `Team Collaboration` `Time Management` `Adaptability` `Quick Learning`
+
+**🌐 Languages**
+
+`English (Professional Working Proficiency)` `Hindi (Native / Fluent)`
 
 </div>
 
@@ -211,6 +225,14 @@ Building a strong academic foundation in AI/ML, database systems, and software d
 
 </div>
 
+<div align="center">
+
+**🎯 Interests**
+
+`Python Development` `Machine Learning` `Artificial Intelligence` `DBMS` `Predictive Analytics` `Generative AI` `Open Source` `Software Engineering`
+
+</div>
+
 ---
 
 ## 🟣 Certifications
@@ -324,7 +346,7 @@ Open To:
 
 <div align="center">
 
-*"Code is the closest thing we have to magic — engineer it with intention."*
+*"Every line of code I write today is a step closer to the engineer I'm becoming."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
